@@ -1,0 +1,4 @@
+# Additional requirements for queue system with Upstash Redis
+redis>=4.0.0
+boto3>=1.26.0
+urllib3>=1.26.0
